@@ -1,6 +1,5 @@
 /*************************************************************************************
 Author: Faik Kerem Örs
-Number: 19388
 Date: 16/08/2016
 
 #Homework - LinkedList.h - THE HEADER FILE OF THE INTERFACES and 
